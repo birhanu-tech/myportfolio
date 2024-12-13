@@ -1,0 +1,13 @@
+# Query: profession
+# ContextLines: 1
+
+2 results - 1 file
+
+index.html:
+   160                  >
+   161:                   I'm a <span class="profession"></span>
+   162                  </h3>
+
+  1137      <script>
+  1138:       let typed = new Typed(".profession", {
+  1139          strings: ["Website Developer", "UI/UX Des"],
